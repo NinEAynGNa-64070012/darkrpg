@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"YYY",
+		"YXY",
+		"YYY"
+	],
+	"key": {
+		"X": {
+			"item": "minecraft:book"
+		},
+		"Y": {
+			"item": "timefall_coin:coin"
+		}
+	},
+	"result": {
+		"item": "simplyskills:malevolent_manuscript",
+		"count": 1
+	}
+}
